@@ -1,0 +1,21 @@
+<html>
+<title>Friends List </title> 
+<body bgcolor="black"> 
+<font color="white " size="54"><center>Friend List </center>   </font> <br><br>
+<font color="orange" size="20" face="verdana"><center>Welcome to My Website </center>
+</font><br><br>
+<center><font color="white" size="10">PLEASE IF LIKE FILL THE BELOW DETAILS <font color="red" size="10">Scroll dwon</font>
+</center><br><br>
+<center><font color="purple" size="8"> Created BY :-</font> </center><br>
+<center><font color="yellow" size="15"> SAHIL SANJAY PATHAK </font></center><br><br>
+<center><from>Name:<input type="text" autocomplete></center><br><br>
+<center>E-mail:<input type="email" name="email"><br><br></center>
+<center>Date of filling from <input type="date" name="bday"></center><br><br>
+<center>phone number:<input type="tele" name="phone" pattern="[0-9]{2}[0-9]{10}" required></center><br><br>
+<center>Comment :<input type="text" min="1" max="100"></center><br><br>
+<center>Rateing about my first website <input type="number" name="1-100"</center><br><br>
+<center><input type="submit"></center><br><br>
+<font size="15">Thanks for visting</font>
+</from>
+</body>
+</html>
